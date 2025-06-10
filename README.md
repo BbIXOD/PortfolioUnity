@@ -13,7 +13,7 @@ https://github.com/BbIXOD/Portfolio/assets/108470719/f11cef85-5f13-4fcf-bc42-b55
 
 My first but still interesting game. The main point is to not look at its code. This is third person shooter with some mechanics.
 
-__This intros, sprites and dialog system made mostly not by me but by Dmutre__
+__This intros, sprites and dialog system made mostly not by me but by Dmutre. Also note that there is easilly findable easter egg from him which i forget to remove so pls remove sound when approaching suspicious candles on lvl 2__
 
 
 https://github.com/BbIXOD/Portfolio/assets/108470719/177ab2b0-4118-4d43-b2ea-27021dd986af
